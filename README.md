@@ -61,7 +61,7 @@ TravelAI/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Ayushkr2736/TravelAI.git
+   git clone git@github.com:Akashsinghiiitb/travel_AI.git
    cd TravelAI
    ```
 
