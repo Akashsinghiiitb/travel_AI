@@ -97,8 +97,8 @@ TravelAI/
 
 ## 👨‍💻 Author
 
-**Ayush Rajak**
-- GitHub: [@Ayushkr2736](https://github.com/Ayushkr2736)
+**Akash Singh**
+- GitHub: [@Akashsingh](https://github.com/Akashsinghiiitb)
 
 ---
 
