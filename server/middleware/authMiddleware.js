@@ -11,7 +11,7 @@ export const verifyToken = (req, res, next) => {
         next();
     } else {
         console.log("DEBUG: Access Denied. No session or user not authenticated.");
-        return res.status(401).json({ message: "Access Denied. Please log in." });
+        return res.status(401).json({ message: "Access Denied. Please log in again ." });
     }
 };
 
